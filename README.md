@@ -1,2 +1,2 @@
 # Little-Lemon-Coursera
-A repository for my coursera project submission.
+A repository of my coursera project.
